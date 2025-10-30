@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Términos de Thalassa 🌊</title>
-  <style>
     body { font-family: Arial, sans-serif; margin: 40px; background-color: #f2f9ff; color: #333; }
     h1 { color: #0077b6; }
   </style>
