@@ -1,6 +1,5 @@
     body { font-family: Arial, sans-serif; margin: 40px; background-color: #f2f9ff; color: #333; }
     h1 { color: #0077b6; }
-  </style>
 </head>
 <body>
   <h1>Términos de uso de Thalassa 🌊</h1>
